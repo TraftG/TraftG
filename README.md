@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TraftG
-- 👀 I’m interested in Unity C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Vue
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me taxmaisb78@gmial.com
 
 
