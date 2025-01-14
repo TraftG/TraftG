@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TraftG
 - 👀 I’m interested in Vue
 - 🌱 I’m currently learning Vue
-- 📫 How to reach me taxmaisb78@gmial.com
+- 📫 How to reach me taxmasib78@gmail.com
 
 
 <!---
