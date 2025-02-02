@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TraftG
-- 👀 I’m interested in Vue
-- 🌱 I’m currently learning Vue
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C#
 - 📫 How to reach me taxmasib78@gmail.com
 
 
